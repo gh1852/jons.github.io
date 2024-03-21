@@ -1,8 +1,7 @@
 {
   "data": {
-    "versionName": "v1.6.2",
-    "versionCode": 101,
-    "downloadUrl": "https://gh1852.github.io/note/app/my-tv-v1.6.2.apk",
-    "updateTime": 1707489408
+    "n": "v1.6.2",
+    "c": 17170689,
+    "u": "https://gh1852.github.io/note/app/my-tv-v1.6.2.apk",
   }
 }
